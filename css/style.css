@@ -5,9 +5,11 @@ body, html {
 
 .bg1 {
   height: 100%;
-  background-image: url(http://cdn.wonderfulengineering.com/wp-content/uploads/2014/05/city-wallpaper-7.jpg);
+  background-image: url(https://static.pexels.com/photos/374710/pexels-photo-374710.jpeg);
   background-position: center center;
   background-size: cover;
+  /*background-repeat: no-repeat;
+  background-color: transparent;*/
 }
 
 .bg2 {
