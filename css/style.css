@@ -177,10 +177,6 @@ h6 {
   }
 }
 
-/* @media only screen and (max-width: 480px) {
-  h1 { font-size: 2em; }
-} */
-
 * {
   -webkit-box-sizing: border-box;
   box-sizing: border-box
